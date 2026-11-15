@@ -1,0 +1,23 @@
+# Secrets
+.env
+backend/.env
+*.env.local
+
+# Dependencies
+node_modules/
+
+# Logs / OS
+npm-debug.log*
+yarn-error.log*
+.DS_Store
+Thumbs.db
+
+# Build / editor
+dist/
+build/
+.vscode/
+.idea/
+
+# Excel lock / temp files
+~$*.xlsx
+*.tmp
